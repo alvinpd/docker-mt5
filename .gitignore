@@ -1,0 +1,6 @@
+# Ignore individual mt5 instances
+.*.mt5/
+
+# Ignore MetaTrader 5 executables
+mt5/*.exe
+
